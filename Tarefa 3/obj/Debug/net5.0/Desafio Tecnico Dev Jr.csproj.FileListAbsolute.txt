@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\bin\Debug\net5.0\Desafio Tecnico Dev Jr.exe
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\bin\Debug\net5.0\Desafio Tecnico Dev Jr.deps.json
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\bin\Debug\net5.0\Desafio Tecnico Dev Jr.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\bin\Debug\net5.0\Desafio Tecnico Dev Jr.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\bin\Debug\net5.0\Desafio Tecnico Dev Jr.dll
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\bin\Debug\net5.0\ref\Desafio Tecnico Dev Jr.dll
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\bin\Debug\net5.0\Desafio Tecnico Dev Jr.pdb
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\obj\Debug\net5.0\Desafio Tecnico Dev Jr.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\obj\Debug\net5.0\Desafio Tecnico Dev Jr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\obj\Debug\net5.0\Desafio Tecnico Dev Jr.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\obj\Debug\net5.0\Desafio Tecnico Dev Jr.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\obj\Debug\net5.0\Desafio Tecnico Dev Jr.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\obj\Debug\net5.0\Desafio Tecnico Dev Jr.dll
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\obj\Debug\net5.0\ref\Desafio Tecnico Dev Jr.dll
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\obj\Debug\net5.0\Desafio Tecnico Dev Jr.pdb
+C:\Users\Vinicius\Desktop\Desafio Tecnico Dev Jr\obj\Debug\net5.0\Desafio Tecnico Dev Jr.genruntimeconfig.cache
