@@ -1,0 +1,14 @@
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\bin\Debug\netcoreapp3.1\DesafioDev3.exe
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\bin\Debug\netcoreapp3.1\DesafioDev3.deps.json
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\bin\Debug\netcoreapp3.1\DesafioDev3.runtimeconfig.json
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\bin\Debug\netcoreapp3.1\DesafioDev3.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\bin\Debug\netcoreapp3.1\DesafioDev3.dll
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\bin\Debug\netcoreapp3.1\DesafioDev3.pdb
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\obj\Debug\netcoreapp3.1\DesafioDev3.csproj.AssemblyReference.cache
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\obj\Debug\netcoreapp3.1\DesafioDev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\obj\Debug\netcoreapp3.1\DesafioDev3.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\obj\Debug\netcoreapp3.1\DesafioDev3.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\obj\Debug\netcoreapp3.1\DesafioDev3.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\obj\Debug\netcoreapp3.1\DesafioDev3.dll
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\obj\Debug\netcoreapp3.1\DesafioDev3.pdb
+C:\Users\Vinicius\source\repos\DesafioDev3\DesafioDev3\obj\Debug\netcoreapp3.1\DesafioDev3.genruntimeconfig.cache
